@@ -1,0 +1,2 @@
+# rationaljs
+Rational
